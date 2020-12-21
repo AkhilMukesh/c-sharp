@@ -1,0 +1,7 @@
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\bin\Debug\ExceptionsAndExceptionHandling.exe.config
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\bin\Debug\ExceptionsAndExceptionHandling.exe
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\bin\Debug\ExceptionsAndExceptionHandling.pdb
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\obj\Debug\ExceptionsAndExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\obj\Debug\ExceptionsAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\obj\Debug\ExceptionsAndExceptionHandling.exe
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 3\ExceptionsAndExceptionHandling\ExceptionsAndExceptionHandling\obj\Debug\ExceptionsAndExceptionHandling.pdb

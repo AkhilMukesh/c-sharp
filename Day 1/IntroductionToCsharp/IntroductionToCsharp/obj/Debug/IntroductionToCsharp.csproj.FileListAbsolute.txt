@@ -1,0 +1,7 @@
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe.config
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.pdb
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csprojAssemblyReference.cache
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.exe
+C:\Users\Monu\Desktop\PeerBrains Workspace\Day 1\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.pdb

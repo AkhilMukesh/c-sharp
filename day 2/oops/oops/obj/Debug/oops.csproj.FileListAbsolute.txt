@@ -1,0 +1,7 @@
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\obj\Debug\oops.csprojAssemblyReference.cache
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\bin\Debug\oops.exe.config
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\bin\Debug\oops.exe
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\bin\Debug\oops.pdb
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\obj\Debug\oops.exe
+C:\Users\Monu\Desktop\PeerBrains Workspace\day 2\oops\oops\obj\Debug\oops.pdb
